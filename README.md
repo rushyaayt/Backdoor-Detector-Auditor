@@ -49,3 +49,6 @@ When executed, the script systematically initiates three primary defensive check
 ## ⚠️ Legal Disclaimer
 #### [!IMPORTANT]
 ### This security utility is distributed in good faith for Educational Use, System Auditing, and Defensive Hardening workflows. While it performs passive read-only checks, users must ensure they have explicit authorized consent before auditing enterprise infrastructures. The developer assumes no liability for administrative decisions, oversight, or system misconfigurations resulting from the use of this utility.
+
+
+![टूलचा स्क्रीनशॉट](screenshot.png)
